@@ -18,3 +18,14 @@ body{
 .box:focus{
     outline: none;
 }
+.wrong{
+    height: 20vh;
+    background-image: url("https://images.pexels.com/photos/887751/pexels-photo-887751.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-position: center;
+    background-size: cover ;
+}
+#contact{
+    height: 40vh;
+    background-color: #16a085;
+    color: white;
+}
