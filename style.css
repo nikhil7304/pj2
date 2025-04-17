@@ -29,3 +29,16 @@ body{
     background-color: #16a085;
     color: white;
 }
+#hero2{
+    height: 50vh;
+    background-image: url("https://images.pexels.com/photos/1133957/pexels-photo-1133957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size:cover;
+    background-position: center;
+}
+
+
+@media screen and (max-width:425px){
+    #hero2{
+        height: 100%;
+    }
+}
